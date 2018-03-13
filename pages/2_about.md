@@ -8,22 +8,19 @@ permalink: /about/
 * content
 {:toc}
 
-## About the site
-This is a personal website of LiXizhi, created with github and jekyll. 
-Create your own website is as easy as clone or fork a [template](https://github.com/LiXizhi/lixizhi.github.io) on github, and [commit](http://jekyllrb.com/docs/posts/) to `_posts` folder. 
+## 关于这个网站
+这是我利用Github + jekyll创建的chocozhao的个人网站。 
 
-### Admin tools
-* site [configuration file](https://github.com/LiXizhi/lixizhi.github.io/blob/master/_config.yml)
-* Jekyll + [lixizhi.duoshuo.com](http://lixizhi.duoshuo.com/admin/)
-* Jekyll + [lixizhi.disqus.com](http://lixizhi.disqus.com/admin/)
-* Jekyll theme templates: [jekyllthemes.org](http://jekyllthemes.org)
-   * Theme used: [cool-concise](http://jekyllthemes.org/themes/cool-concise-high-end/)
-* Jekyll official site: [jekyllrb.com](http://jekyllrb.com)
-* YAML for human readable markdown: [yaml.org](http://www.yaml.org/)
-* markdown reference: [kramdown](http://kramdown.gettalong.org/quickref.html)
 
-### About comments
-Add a variable called `comments` to the [YAML front matter](http://jekyllrb.com/docs/frontmatter/) and set its value to true. A sample might look like:
+### 利用到的工具
+* 站点 [配置文件](https://github.com/LiXizhi/lixizhi.github.io/blob/master/_config.yml)
+* Jekyll 主题模板: [jekyllthemes.org](http://jekyllthemes.org)
+   * 我用到了这个主题: [cool-concise](http://jekyllthemes.org/themes/cool-concise-high-end/)
+* Jekyll 官方网站: [jekyllrb.com](http://jekyllrb.com)
+* 利用markdown来写我的内容: [kramdown](http://kramdown.gettalong.org/quickref.html)
+
+### 关于评论
+添加一个调用 `comments` to the [YAML front matter](http://jekyllrb.com/docs/frontmatter/) 将其值设置为true. 示例可能如下所示：
 
     ---
     layout: post
@@ -31,24 +28,9 @@ Add a variable called `comments` to the [YAML front matter](http://jekyllrb.com/
     # other options
     ---
 
-### Sample markdowns
-Click view source at the bottom of the page
+## 关于我
 
-* Embedding code
-{% highlight lua %}
-local function main()
-	print("hello world everyone")
-end
-{% endhighlight %}
+目前我是一名Android开发者，希望通过博客的形式对我的知识进行总结，从而提升自己。
 
 
-## About me
-
-My primary research interest is in artificial intelligence, programming and education. See my project page for details.
-
-
-### 2005 Old Website 
-Here is my old personal website when I was in University. It was mostly on my projects and thoughts before 2005.
-
-* [Xizhi's old website before 2005](/oldsite2005/index.htm). 
 

@@ -2,6 +2,7 @@
 layout: frontpage
 ---
 
-## Welcome to my website
+## 欢迎来到chocozhao的博客
 
-This is the place where I share my ideas on topics
+	这里是我分享想法的地方。          
+						——————有梦的人  从不轻言放弃 Never Settle   

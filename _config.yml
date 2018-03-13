@@ -1,5 +1,6 @@
 # Site settings
-title: 欢迎来到我的窝，希望可以给你提供一些帮助.
+encoding: UTF-8
+title: 欢迎来到chocozhao的窝.
 email: zhao1027313530@gmail.com
 description: chocozhao Ideas & Blogs
 # > # this means to ignore newlines until "baseurl:"
@@ -18,8 +19,8 @@ viewsourceroot: https://github.com/chocozhao/chocozhao.github.io/chocozhaoBlog
 newsourceroot: https://github.com/chocozhao/chocozhao.github.io
 #########################################
 # for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
-#duoshuo_shortname: lixizhi
-#duoshuo_url: "http://lixizhi.github.io"
+#duoshuo_shortname: chocozhao
+#duoshuo_url: "http://chocozhao.github.io"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
 disqus_shortname: chocozhao
 disqus_url: "http://chocozhao.github.io"
